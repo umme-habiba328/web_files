@@ -42,7 +42,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <div id="menu" class="col-lg-8 col-md-9 d-none d-md-block nav-item">
                         <ul>
                             <li><a href="#">Home</a></li>
-<!--                             <li><a href="#services">Services</a></li> -->
+                            <li><a href="#services">Services</a></li>
                             <li><a href="#about_us">About Us</a></li>
                             <li><a href="#gallery">Gallery</a></li>
                             <li><a href="#contact_us">Contact Us</a></li>
@@ -137,7 +137,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <div class="col-sm-4 blog-smk">
                         <div class="blog-single">
 
-                                <img src="assets/images/doctor.jpg" alt="">
+                                <img src="assets/images/doctor_male.jpg" alt="">
 
                             <div class="blog-single-det">
                                 <h6>Doctors login</h6>
