@@ -42,7 +42,7 @@ echo "<script>window.location.href ='index.php'</script>";
                     <div id="menu" class="col-lg-8 col-md-9 d-none d-md-block nav-item">
                         <ul>
                             <li><a href="#">Home</a></li>
-                            <li><a href="#services">Services</a></li>
+<!--                             <li><a href="#services">Services</a></li> -->
                             <li><a href="#about_us">About Us</a></li>
                             <li><a href="#gallery">Gallery</a></li>
                             <li><a href="#contact_us">Contact Us</a></li>
