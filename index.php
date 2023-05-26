@@ -85,7 +85,7 @@ echo "<script>window.location.href ='index.php'</script>";
                 </div>
                 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="assets/images/slider/dcotor_slider.jpg" alt="Third slide">
+                    <img class="d-block w-100" src="assets/images/slider/doctor_slider.jpg" alt="Third slide">
                       <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
                         <h5 class="animated bounceInDown">Hospital Management System</h5>
