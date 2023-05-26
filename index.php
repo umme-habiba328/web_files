@@ -187,7 +187,7 @@ echo "<script>window.location.href ='index.php'</script>";
         <div class="container">
             <div class="inner-title">
 
-                <h2>Our Key Features</h2>
+                <h2>Key Features</h2>
                 <p>Take a look at some of our key features</p>
             </div>
 
